@@ -1,4 +1,5 @@
 # Demorepo
+
 This is my first git repo
 <br>
-Author-Sujal Singh
+Author-Sujal Ajit Singh
